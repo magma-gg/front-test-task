@@ -1,0 +1,419 @@
+:root {
+    --red: #EC0038;
+    --blue: #4c7de4;
+    --green: #62C457;
+    --vinous: #4E2639;
+
+    --border-color: #47484F;
+    --border-color-disabled: #35363B;
+    --border-color-focus: #fff;
+    --border-color-error: #D30536;
+    --border-color-valid: #62C457;
+
+    --bg-black: #1F2022;
+    --bg-black-light: #26272C;
+    --bg-black-lighter: #2E2F35;
+    --bg-gray: #7D7F87;
+    --bg-white: #fff;
+
+    --container-width: 1440px;
+    --container-padding: 20px;
+    --container-padding-phone: 10px;
+    --default-padding: 1.475em;
+
+    --font-color-black: #1F2022;
+    --font-color-white: #eee;
+    --font-color-gray-1: #5F6069;
+    --font-color-gray-2: #35363C;
+    --font-color-gray-3: #4F515A;
+    --font-color-blue: #6CBDFD;
+    --font-color: var(--font-color-white);
+    --font-color-yellow: #f2d94a;
+
+    --header-height: 90px;
+    --max-desktop-width: 1440px;
+
+    --border-radius: 6px;
+}
+
+@media (max-width: 749px) {
+    :root {
+        --header-height: 80px;
+        --container-padding: var(--container-padding-phone);
+    }
+}
+
+/* width */
+body.win::-webkit-scrollbar,
+body.win ::-webkit-scrollbar{
+    width: 8px;
+}
+
+/* Track */
+body.win::-webkit-scrollbar-track,
+body.win ::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+body.win::-webkit-scrollbar-thumb,
+body.win ::-webkit-scrollbar-thumb{
+    background: var(--font-color-gray-2);
+}
+
+body.win::-webkit-scrollbar-thumb:hover,
+body.win ::-webkit-scrollbar-thumb:hover{
+    background: var(--font-color-gray-1);
+}
+
+html, body {
+    @media screen and (max-width: 749px) {
+        &.mobile-scroll-disabled {
+            overflow: hidden;
+        }
+    }
+}
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
+html {
+    font-size: 62.5%;
+    background: var(--bg-black);
+}
+
+body {
+    font-size: 1.4em; /* currently ems cause chrome bug misinterpreting rems on body element */
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #222;
+    overflow-x: hidden;
+    background: var(--bg-black);
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 3rem;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 4.0rem;
+    line-height: 1.2;
+    letter-spacing: -.1rem;
+}
+
+h2 {
+    font-size: 3.6rem;
+    line-height: 1.25;
+    letter-spacing: -.1rem;
+}
+
+h3 {
+    font-size: 3.0rem;
+    line-height: 1.3;
+    letter-spacing: -.1rem;
+}
+
+h4 {
+    font-size: 2.4rem;
+    line-height: 1.35;
+    letter-spacing: -.08rem;
+}
+
+h5 {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    letter-spacing: -.05rem;
+}
+
+h6 {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    letter-spacing: 0;
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+    h1 {
+        font-size: 5.0rem;
+    }
+
+    h2 {
+        font-size: 4.2rem;
+    }
+
+    h3 {
+        font-size: 3.6rem;
+    }
+
+    h4 {
+        font-size: 3.0rem;
+    }
+
+    h5 {
+        font-size: 2.4rem;
+    }
+
+    h6 {
+        font-size: 1.5rem;
+    }
+}
+
+p {
+    margin-top: 0;
+}
+
+/* Lists
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul {
+    list-style: circle inside;
+}
+
+ol {
+    list-style: decimal inside;
+}
+
+ol, ul {
+    padding-left: 0;
+    margin-top: 0;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+    margin: 1.5rem 0 1.5rem 3rem;
+    font-size: 90%;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+    padding: .2rem .5rem;
+    margin: 0 .2rem;
+    font-size: 90%;
+    white-space: nowrap;
+    background: #F1F1F1;
+    border: 1px solid #E1E1E1;
+    border-radius: 4px;
+}
+
+pre > code {
+    display: block;
+    padding: 1rem 1.5rem;
+    white-space: pre;
+}
+
+
+/* Tables
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+th,
+td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+th:first-child,
+td:first-child {
+    padding-left: 0;
+}
+
+th:last-child,
+td:last-child {
+    padding-right: 0;
+}
+
+
+/* Spacing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+pre,
+blockquote,
+dl,
+figure,
+table,
+ul,
+ol,
+form {
+    margin-bottom: 2.5rem;
+}
+
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+hr {
+    margin-top: 3rem;
+    margin-bottom: 3.5rem;
+    border-width: 0;
+    border-top: 1px solid #E1E1E1;
+}
+
+/* Media Queries
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to structure the use of media queries is to create the queries
+near the relevant code. For example, if you wanted to change the styles for buttons
+on small devices, paste the mobile query code up in the buttons section and style it
+there.
+*/
+
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+}
+
+.fill-red {
+    fill: var(--red);
+}
+
+/* Buttons
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.button {
+    color: var(--font-color-black);
+    font-size: 1.143em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.878em 1.758em 0.898em;
+    border: none;
+    border-radius: var(--border-radius);
+    font-weight: 900;
+    outline: none;
+    user-select: none;
+    text-decoration: none;
+}
+
+.small-button {
+    color: var(--font-color-gray-3);
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 1em;
+    outline: none;
+    border: none;
+    border-radius: 2.8em;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+/* Inputs
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+input,
+select,
+textarea,
+.input {
+    border: 1px solid var(--border-color);
+    background-color: transparent;
+    border-radius: var(--border-radius);
+    text-align: left;
+    padding: 1em 1.5em 1em 1.5em;
+    outline: none;
+    color: var(--font-color-white);
+    max-height: 3.2em;
+    height: 3.2em;
+}
+
+input::placeholder,
+.input::placeholder {
+    font-size: 1em;
+    font-weight: 500;
+    color: var(--font-color-gray-1);
+}
+
+input.error,
+.input.error {
+    border-color: var(--border-color-error);
+}
+
+input.valid,
+.input.valid {
+    border-color: var(--border-color-valid);
+}
+
+input:focus,
+.input:focus {
+    border-color: var(--border-color-focus);
+    color: var(--font-color-white);
+}
+
+select[multiple] {
+    max-height: unset;
+    padding: 1em;
+    min-width: 6em;
+    height: unset;
+}
+
+textarea {
+    max-height: unset;
+    height: unset;
+}
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+a, .link {
+    cursor: pointer;
+    font-size: 1em;
+    color: var(--font-color-white);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover, .link:hover, a:focus, .link:focus {
+    color: var(--font-color-blue);
+}
+
+.link.type-1 {}
+
+.link.type-1:hover {}
+
+a.type-2, .link.type-2 {
+    font-weight: 700;
+}
+
+a.type-2:hover, .link.type-2:hover {
+    color: var(--font-color-blue);
+}
+
+a.type-3, .link.type-3 {
+    color: var(--font-color-gray-1);
+}
+
+a.type-3:hover, .link.type-3:hover {
+    color: var(--font-color-white);
+}

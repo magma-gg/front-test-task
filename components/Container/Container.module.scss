@@ -1,0 +1,9 @@
+.container {
+  --one-and-a-half-padding: calc(1.5 * var(--container-padding));
+
+  max-width: var(--container-width);
+  width: 100%;
+  padding: var(--one-and-a-half-padding) var(--container-padding);
+  margin: auto;
+  min-height: calc(100vh - var(--header-height))
+}
