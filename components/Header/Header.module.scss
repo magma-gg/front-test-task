@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  margin-bottom: 3rem;
+
+  & a {
+    letter-spacing: 0.4px;
+    margin-right: 2rem;
+    display: inline-block;
+    border-bottom: 1px dotted;
+  }
+}

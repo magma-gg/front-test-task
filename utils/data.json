@@ -1,0 +1,1553 @@
+{
+  "events": [
+    {
+      "_id": 25,
+      "teams": [
+        1779,
+        2415
+      ],
+      "tournamentId": 2074,
+      "start": 1589263260000,
+      "end": 1589269999000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 37,
+      "teams": [
+        1519,
+        1751
+      ],
+      "tournamentId": 1746,
+      "start": 1589265780000,
+      "end": 1589272224000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 49,
+      "teams": [
+        2120,
+        2471
+      ],
+      "tournamentId": 2418,
+      "start": 1589272500000,
+      "end": 1589276935000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 73,
+      "teams": [
+        2399,
+        1107
+      ],
+      "tournamentId": 2554,
+      "start": 1589281680000,
+      "end": 1589292911000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 129,
+      "teams": [
+        1892,
+        2672
+      ],
+      "tournamentId": 2670,
+      "start": 1589295600000,
+      "end": 1589298430000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 209,
+      "teams": [
+        2352,
+        2188
+      ],
+      "tournamentId": 2354,
+      "start": 1589306400000,
+      "end": 1589309275000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 213,
+      "teams": [
+        2708,
+        2692
+      ],
+      "tournamentId": 2706,
+      "start": 1589306700000,
+      "end": 1589309075000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 237,
+      "teams": [
+        1043,
+        2572
+      ],
+      "tournamentId": 1230,
+      "start": 1589308500000,
+      "end": 1589317252000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 249,
+      "teams": [
+        2356,
+        2344
+      ],
+      "tournamentId": 2354,
+      "start": 1589310000000,
+      "end": 1589312381000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 329,
+      "teams": [
+        615,
+        2603
+      ],
+      "tournamentId": 1514,
+      "start": 1589340120000,
+      "end": 1589350044000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 353,
+      "teams": [
+        2603,
+        2411
+      ],
+      "tournamentId": 1334,
+      "start": 1589350920000,
+      "end": 1589357387000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 377,
+      "teams": [
+        2411,
+        1515
+      ],
+      "tournamentId": 1354,
+      "start": 1589360400000,
+      "end": 1589369692000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 393,
+      "teams": [
+        2055,
+        2056
+      ],
+      "tournamentId": 650,
+      "start": 1589362320000,
+      "end": 1589368303000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 429,
+      "teams": [
+        2100,
+        432
+      ],
+      "tournamentId": 2658,
+      "start": 1589368800000,
+      "end": 1589368860000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 473,
+      "teams": [
+        2596,
+        2568
+      ],
+      "tournamentId": 2418,
+      "start": 1589384460000,
+      "end": 1589394638000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 485,
+      "teams": [
+        1852,
+        2132
+      ],
+      "tournamentId": 2166,
+      "start": 1589386200000,
+      "end": 1589396925000,
+      "tier": 2,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 529,
+      "teams": [
+        2087,
+        2527
+      ],
+      "tournamentId": 786,
+      "start": 1589396040000,
+      "end": 1589405134000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 549,
+      "teams": [
+        2531,
+        2151
+      ],
+      "tournamentId": 2346,
+      "start": 1589399400000,
+      "end": 1589403318000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 569,
+      "teams": [
+        2223,
+        2243
+      ],
+      "tournamentId": 2390,
+      "start": 1589414760000,
+      "end": 1589418479000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 649,
+      "teams": [
+        2055,
+        2091
+      ],
+      "tournamentId": 650,
+      "start": 1589441100000,
+      "end": 1589452628000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 693,
+      "teams": [
+        695,
+        1568
+      ],
+      "tournamentId": 2658,
+      "start": 1589451000000,
+      "end": 1589452824000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 705,
+      "teams": [
+        2595,
+        2655
+      ],
+      "tournamentId": 1466,
+      "start": 1589453820000,
+      "end": 1589462696000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 713,
+      "teams": [
+        2660,
+        716
+      ],
+      "tournamentId": 2658,
+      "start": 1589454480000,
+      "end": 1589456567000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 737,
+      "teams": [
+        2408,
+        2464
+      ],
+      "tournamentId": 2418,
+      "start": 1589456940000,
+      "end": 1589469851000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 769,
+      "teams": [
+        1495,
+        1051
+      ],
+      "tournamentId": 1494,
+      "start": 1589466300000,
+      "end": 1589482091000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 793,
+      "teams": [
+        2704,
+        1916
+      ],
+      "tournamentId": 2670,
+      "start": 1589472060000,
+      "end": 1589474873000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 861,
+      "teams": [
+        2343,
+        2351
+      ],
+      "tournamentId": 2354,
+      "start": 1589483100000,
+      "end": 1589486235000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 877,
+      "teams": [
+        2219,
+        1996
+      ],
+      "tournamentId": 2390,
+      "start": 1589498100000,
+      "end": 1589500140000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 893,
+      "teams": [
+        2223,
+        2392
+      ],
+      "tournamentId": 2390,
+      "start": 1589504640000,
+      "end": 1589510953000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 909,
+      "teams": [
+        1536,
+        2443
+      ],
+      "tournamentId": 2442,
+      "start": 1589511600000,
+      "end": 1589522281000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 937,
+      "teams": [
+        2444,
+        2272
+      ],
+      "tournamentId": 2442,
+      "start": 1589523300000,
+      "end": 1589536056000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1097,
+      "teams": [
+        1503,
+        1100
+      ],
+      "tournamentId": 1502,
+      "start": 1589579580000,
+      "end": 1589588857000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1249,
+      "teams": [
+        2063,
+        1828
+      ],
+      "tournamentId": 2418,
+      "start": 1589641380000,
+      "end": 1589649978000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1285,
+      "teams": [
+        2199,
+        1288
+      ],
+      "tournamentId": 2498,
+      "start": 1589655000000,
+      "end": 1589664598000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1349,
+      "teams": [
+        1764,
+        1799
+      ],
+      "tournamentId": 2442,
+      "start": 1589695380000,
+      "end": 1589706506000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1373,
+      "teams": [
+        2507,
+        2556
+      ],
+      "tournamentId": 2554,
+      "start": 1589702880000,
+      "end": 1589709996000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1429,
+      "teams": [
+        2416,
+        2272
+      ],
+      "tournamentId": 2442,
+      "start": 1589716380000,
+      "end": 1589729315000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1457,
+      "teams": [
+        2708,
+        2183
+      ],
+      "tournamentId": 2538,
+      "start": 1589720700000,
+      "end": 1589726241000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1473,
+      "teams": [
+        2540,
+        1979
+      ],
+      "tournamentId": 2538,
+      "start": 1589727540000,
+      "end": 1589738645000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1497,
+      "teams": [
+        2063,
+        2568
+      ],
+      "tournamentId": 2418,
+      "start": 1589741640000,
+      "end": 1589749757000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1521,
+      "teams": [
+        2091,
+        2095
+      ],
+      "tournamentId": 2094,
+      "start": 1589778900000,
+      "end": 1589786720000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1541,
+      "teams": [
+        1944,
+        1916
+      ],
+      "tournamentId": 2418,
+      "start": 1589785320000,
+      "end": 1589798850000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1545,
+      "teams": [
+        2152,
+        2315
+      ],
+      "tournamentId": 2418,
+      "start": 1589785320000,
+      "end": 1589798171000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1573,
+      "teams": [
+        2076,
+        1736
+      ],
+      "tournamentId": 2442,
+      "start": 1589793060000,
+      "end": 1589801718000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1593,
+      "teams": [
+        2035,
+        2051
+      ],
+      "tournamentId": 2094,
+      "start": 1589799720000,
+      "end": 1589806006000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1605,
+      "teams": [
+        1607,
+        2507
+      ],
+      "tournamentId": 2554,
+      "start": 1589800260000,
+      "end": 1589809837000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1665,
+      "teams": [
+        2704,
+        2687
+      ],
+      "tournamentId": 2702,
+      "start": 1589819700000,
+      "end": 1589823912000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1697,
+      "teams": [
+        2688,
+        2640
+      ],
+      "tournamentId": 2702,
+      "start": 1589828100000,
+      "end": 1589830698000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1717,
+      "teams": [
+        1839,
+        1731
+      ],
+      "tournamentId": 2094,
+      "start": 1589857560000,
+      "end": 1589864014000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1729,
+      "teams": [
+        1731,
+        2055
+      ],
+      "tournamentId": 2094,
+      "start": 1589865300000,
+      "end": 1589872412000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1765,
+      "teams": [
+        1875,
+        2704
+      ],
+      "tournamentId": 2418,
+      "start": 1589877600000,
+      "end": 1589880646000,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1801,
+      "teams": [
+        2464,
+        2124
+      ],
+      "tournamentId": 2634,
+      "start": 1589885820000,
+      "end": 1589900093000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1821,
+      "teams": [
+        2067,
+        2108
+      ],
+      "tournamentId": 2166,
+      "start": 1589889420000,
+      "end": 1589897372000,
+      "tier": 2,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1833,
+      "teams": [
+        2412,
+        2396
+      ],
+      "tournamentId": 2438,
+      "start": 1589890560000,
+      "end": 1589897808000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 1877,
+      "teams": [
+        2408,
+        2596
+      ],
+      "tournamentId": 2474,
+      "start": 1589904000000,
+      "end": 1589907945000,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 1953,
+      "teams": [
+        1955,
+        2176
+      ],
+      "tournamentId": 2174,
+      "start": 1589913900000,
+      "end": 1589926190000,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 2033,
+      "teams": [
+        2035,
+        2036
+      ],
+      "tournamentId": 2090,
+      "start": 1589950800000,
+      "end": null,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 2037,
+      "teams": [
+        2051,
+        2096
+      ],
+      "tournamentId": 2094,
+      "start": 1589950800000,
+      "end": null,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 2041,
+      "teams": [
+        2396,
+        2251
+      ],
+      "tournamentId": 2438,
+      "start": 1589954400000,
+      "end": null,
+      "tier": 3,
+      "gameType": "dota2"
+    },
+    {
+      "_id": 2073,
+      "teams": [
+        2415,
+        2076
+      ],
+      "tournamentId": 2074,
+      "start": 1589965200000,
+      "end": null,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2149,
+      "teams": [
+        2151,
+        2152
+      ],
+      "tournamentId": 2474,
+      "start": 1589990400000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2161,
+      "teams": [
+        2355,
+        2351
+      ],
+      "tournamentId": 2354,
+      "start": 1589997600000,
+      "end": null,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2241,
+      "teams": [
+        2243,
+        2244
+      ],
+      "tournamentId": 2390,
+      "start": 1590026400000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2321,
+      "teams": [
+        2323,
+        2324
+      ],
+      "tournamentId": 2674,
+      "start": 1590075000000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2349,
+      "teams": [
+        2351,
+        2352
+      ],
+      "tournamentId": 2354,
+      "start": 1590087600000,
+      "end": null,
+      "tier": 3,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2441,
+      "teams": [
+        2443,
+        2444
+      ],
+      "tournamentId": 2442,
+      "start": 1590148800000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2521,
+      "teams": [
+        2575,
+        2567
+      ],
+      "tournamentId": 2674,
+      "start": 1590235200000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2565,
+      "teams": [
+        2567,
+        2568
+      ],
+      "tournamentId": 2674,
+      "start": 1590321600000,
+      "end": null,
+      "tier": 2,
+      "gameType": "csgo"
+    },
+    {
+      "_id": 2577,
+      "teams": [
+        2628,
+        2612
+      ],
+      "tournamentId": 2682,
+      "start": 1590336000000,
+      "end": null,
+      "tier": 3,
+      "gameType": "dota2"
+    }
+  ],
+  "teams": [
+    {
+      "_id": 2055,
+      "gameType": "dota2",
+      "name": "Ocean Team"
+    },
+    {
+      "_id": 2412,
+      "gameType": "dota2",
+      "name": "T1"
+    },
+    {
+      "_id": 2603,
+      "gameType": "dota2",
+      "name": "Team Adroit"
+    },
+    {
+      "_id": 1751,
+      "gameType": "dota2",
+      "name": "Longinus"
+    },
+    {
+      "_id": 2399,
+      "gameType": "dota2",
+      "name": "Invictus Gaming"
+    },
+    {
+      "_id": 1779,
+      "gameType": "csgo",
+      "name": "Let's Quit"
+    },
+    {
+      "_id": 2415,
+      "gameType": "csgo",
+      "name": "Invictus Gaming"
+    },
+    {
+      "_id": 2411,
+      "gameType": "dota2",
+      "name": "LGD International"
+    },
+    {
+      "_id": 1519,
+      "gameType": "dota2",
+      "name": "Rampage Gaming"
+    },
+    {
+      "_id": 2091,
+      "gameType": "dota2",
+      "name": "Invictus Gaming Vitality"
+    },
+    {
+      "_id": 1107,
+      "gameType": "dota2",
+      "name": "Newbee"
+    },
+    {
+      "_id": 2120,
+      "gameType": "csgo",
+      "name": "Hard Legion Esports"
+    },
+    {
+      "_id": 2471,
+      "gameType": "csgo",
+      "name": "ALTERNATE aTTaX"
+    },
+    {
+      "_id": 2396,
+      "gameType": "dota2",
+      "name": "Cignal Ultra"
+    },
+    {
+      "_id": 1515,
+      "gameType": "dota2",
+      "name": "496 Gaming"
+    },
+    {
+      "_id": 1875,
+      "gameType": "csgo",
+      "name": "Salamander"
+    },
+    {
+      "_id": 1852,
+      "gameType": "dota2",
+      "name": "Team Liquid"
+    },
+    {
+      "_id": 2507,
+      "gameType": "dota2",
+      "name": "CDEC Gaming"
+    },
+    {
+      "_id": 2056,
+      "gameType": "dota2",
+      "name": "StarLuck.Fly"
+    },
+    {
+      "_id": 2596,
+      "gameType": "csgo",
+      "name": "Espada"
+    },
+    {
+      "_id": 2527,
+      "gameType": "dota2",
+      "name": "Team Unique"
+    },
+    {
+      "_id": 2531,
+      "gameType": "csgo",
+      "name": "Movistar Riders"
+    },
+    {
+      "_id": 1051,
+      "gameType": "csgo",
+      "name": "Team Vitality"
+    },
+    {
+      "_id": 2704,
+      "gameType": "csgo",
+      "name": "AGO Esports"
+    },
+    {
+      "_id": 1892,
+      "gameType": "csgo",
+      "name": "Team GamerLegion"
+    },
+    {
+      "_id": 2672,
+      "gameType": "csgo",
+      "name": "Nordavind"
+    },
+    {
+      "_id": 2087,
+      "gameType": "dota2",
+      "name": "Aggressive Mode"
+    },
+    {
+      "_id": 2176,
+      "gameType": "dota2",
+      "name": "CR4ZY"
+    },
+    {
+      "_id": 2464,
+      "gameType": "csgo",
+      "name": "Endpoint"
+    },
+    {
+      "_id": 1916,
+      "gameType": "csgo",
+      "name": "Hellraisers"
+    },
+    {
+      "_id": 2612,
+      "gameType": "dota2",
+      "name": "Team Empire Hope"
+    },
+    {
+      "_id": 2152,
+      "gameType": "csgo",
+      "name": "Team LDLC.com"
+    },
+    {
+      "_id": 2687,
+      "gameType": "csgo",
+      "name": "Izako Boars"
+    },
+    {
+      "_id": 2640,
+      "gameType": "csgo",
+      "name": "CLEANTmix"
+    },
+    {
+      "_id": 2344,
+      "gameType": "csgo",
+      "name": "vinkelparty"
+    },
+    {
+      "_id": 2356,
+      "gameType": "csgo",
+      "name": "SoyboysxP"
+    },
+    {
+      "_id": 2352,
+      "gameType": "csgo",
+      "name": "lotb"
+    },
+    {
+      "_id": 2188,
+      "gameType": "csgo",
+      "name": "Madvillainy"
+    },
+    {
+      "_id": 2708,
+      "gameType": "csgo",
+      "name": "sAw"
+    },
+    {
+      "_id": 2692,
+      "gameType": "csgo",
+      "name": "ZERØZONE"
+    },
+    {
+      "_id": 1043,
+      "gameType": "dota2",
+      "name": "KVP"
+    },
+    {
+      "_id": 2572,
+      "gameType": "dota2",
+      "name": "FlyToMoon 2.0"
+    },
+    {
+      "_id": 2351,
+      "gameType": "csgo",
+      "name": "GoBananas"
+    },
+    {
+      "_id": 2355,
+      "gameType": "csgo",
+      "name": "Tikitakan"
+    },
+    {
+      "_id": 2199,
+      "gameType": "dota2",
+      "name": "Thunder Predator"
+    },
+    {
+      "_id": 2223,
+      "gameType": "csgo",
+      "name": "Alcoholics Anonymous"
+    },
+    {
+      "_id": 1955,
+      "gameType": "dota2",
+      "name": "4 Zoomers "
+    },
+    {
+      "_id": 1996,
+      "gameType": "csgo",
+      "name": "Blood Sweat and Tears"
+    },
+    {
+      "_id": 2219,
+      "gameType": "csgo",
+      "name": "Mythic"
+    },
+    {
+      "_id": 2244,
+      "gameType": "csgo",
+      "name": "Recon 5"
+    },
+    {
+      "_id": 2392,
+      "gameType": "csgo",
+      "name": "Warriors International"
+    },
+    {
+      "_id": 2035,
+      "gameType": "dota2",
+      "name": "Aster.Aries"
+    },
+    {
+      "_id": 615,
+      "gameType": "dota2",
+      "name": "Elephant"
+    },
+    {
+      "_id": 2095,
+      "gameType": "dota2",
+      "name": "Dark Knight"
+    },
+    {
+      "_id": 2443,
+      "gameType": "csgo",
+      "name": "OneThree"
+    },
+    {
+      "_id": 2251,
+      "gameType": "dota2",
+      "name": "Execration"
+    },
+    {
+      "_id": 2063,
+      "gameType": "csgo",
+      "name": "Team Secret"
+    },
+    {
+      "_id": 2067,
+      "gameType": "dota2",
+      "name": "OG"
+    },
+    {
+      "_id": 2628,
+      "gameType": "dota2",
+      "name": "Hellraisers"
+    },
+    {
+      "_id": 2100,
+      "gameType": "csgo",
+      "name": "Justice Esports"
+    },
+    {
+      "_id": 695,
+      "gameType": "csgo",
+      "name": "Forbidden.AU"
+    },
+    {
+      "_id": 2568,
+      "gameType": "csgo",
+      "name": "compLexity Gaming"
+    },
+    {
+      "_id": 2556,
+      "gameType": "dota2",
+      "name": "Sparking Arrow Gaming"
+    },
+    {
+      "_id": 432,
+      "gameType": "csgo",
+      "name": "FURY"
+    },
+    {
+      "_id": 1495,
+      "gameType": "csgo",
+      "name": "Ninjas in Pyjamas"
+    },
+    {
+      "_id": 2151,
+      "gameType": "csgo",
+      "name": "Apeks"
+    },
+    {
+      "_id": 1944,
+      "gameType": "csgo",
+      "name": "FATE eSports"
+    },
+    {
+      "_id": 2132,
+      "gameType": "dota2",
+      "name": "Ninjas in Pyjamas"
+    },
+    {
+      "_id": 2408,
+      "gameType": "csgo",
+      "name": "SKADE"
+    },
+    {
+      "_id": 2343,
+      "gameType": "csgo",
+      "name": "fightclub"
+    },
+    {
+      "_id": 1979,
+      "gameType": "csgo",
+      "name": "Wygers"
+    },
+    {
+      "_id": 2323,
+      "gameType": "csgo",
+      "name": "Astralis"
+    },
+    {
+      "_id": 2324,
+      "gameType": "csgo",
+      "name": "G2 Esports"
+    },
+    {
+      "_id": 2183,
+      "gameType": "csgo",
+      "name": "KPI Gaming"
+    },
+    {
+      "_id": 2243,
+      "gameType": "csgo",
+      "name": "Under 21"
+    },
+    {
+      "_id": 1828,
+      "gameType": "csgo",
+      "name": "SMASH Esports"
+    },
+    {
+      "_id": 2660,
+      "gameType": "csgo",
+      "name": "Avant Gaming"
+    },
+    {
+      "_id": 716,
+      "gameType": "csgo",
+      "name": "esea open"
+    },
+    {
+      "_id": 1568,
+      "gameType": "csgo",
+      "name": "TWA"
+    },
+    {
+      "_id": 2595,
+      "gameType": "csgo",
+      "name": "Winstrike Team"
+    },
+    {
+      "_id": 2655,
+      "gameType": "csgo",
+      "name": "Syman Gaming"
+    },
+    {
+      "_id": 2108,
+      "gameType": "dota2",
+      "name": "The Alliance"
+    },
+    {
+      "_id": 2688,
+      "gameType": "csgo",
+      "name": "AVEZ Esport"
+    },
+    {
+      "_id": 2416,
+      "gameType": "csgo",
+      "name": "Lynn Vision Gaming"
+    },
+    {
+      "_id": 1536,
+      "gameType": "csgo",
+      "name": "Beyond Esports"
+    },
+    {
+      "_id": 1731,
+      "gameType": "dota2",
+      "name": "Team Black"
+    },
+    {
+      "_id": 2076,
+      "gameType": "csgo",
+      "name": "JiJieHao"
+    },
+    {
+      "_id": 1764,
+      "gameType": "csgo",
+      "name": "O2 Esports"
+    },
+    {
+      "_id": 2444,
+      "gameType": "csgo",
+      "name": "D13"
+    },
+    {
+      "_id": 2272,
+      "gameType": "csgo",
+      "name": "Big Time Regal Gaming"
+    },
+    {
+      "_id": 1839,
+      "gameType": "dota2",
+      "name": "Cellular Game"
+    },
+    {
+      "_id": 1799,
+      "gameType": "csgo",
+      "name": "ZIGMA"
+    },
+    {
+      "_id": 1736,
+      "gameType": "csgo",
+      "name": "Mazaalai"
+    },
+    {
+      "_id": 1607,
+      "gameType": "dota2",
+      "name": "Royal Never Give Up"
+    },
+    {
+      "_id": 1503,
+      "gameType": "csgo",
+      "name": "W7M Gaming"
+    },
+    {
+      "_id": 1100,
+      "gameType": "csgo",
+      "name": "Keyd Stars"
+    },
+    {
+      "_id": 2096,
+      "gameType": "dota2",
+      "name": "Clcombat Team"
+    },
+    {
+      "_id": 1288,
+      "gameType": "dota2",
+      "name": "Incubus Gaming"
+    },
+    {
+      "_id": 2540,
+      "gameType": "csgo",
+      "name": "Cream Real Betis"
+    },
+    {
+      "_id": 2315,
+      "gameType": "csgo",
+      "name": "AGF"
+    },
+    {
+      "_id": 2051,
+      "gameType": "dota2",
+      "name": "Team Buffalo"
+    },
+    {
+      "_id": 2036,
+      "gameType": "dota2",
+      "name": "Vici Gaming Potential"
+    },
+    {
+      "_id": 2124,
+      "gameType": "csgo",
+      "name": "S-Gaming"
+    },
+    {
+      "_id": 2575,
+      "gameType": "csgo",
+      "name": "mousesports"
+    },
+    {
+      "_id": 2567,
+      "gameType": "csgo",
+      "name": "BIG "
+    }
+  ],
+  "tournaments": [
+    {
+      "_id": 1746,
+      "gameType": "dota2",
+      "name": "2020 Vulcan Champion League 2",
+      "tier": 3
+    },
+    {
+      "_id": 1354,
+      "gameType": "dota2",
+      "name": "Cyber bet Cup Spring Series SEA",
+      "tier": 3
+    },
+    {
+      "_id": 1514,
+      "gameType": "dota2",
+      "name": "2020 Hephaestus Cup",
+      "tier": 3
+    },
+    {
+      "_id": 1334,
+      "gameType": "dota2",
+      "name": "Asia Spring Invitational",
+      "tier": 3
+    },
+    {
+      "_id": 650,
+      "gameType": "dota2",
+      "name": "2020 Dota2 Secondary Professional League",
+      "tier": 3
+    },
+    {
+      "_id": 2074,
+      "gameType": "csgo",
+      "name": "Betway CSGO Asia Masters",
+      "tier": 3
+    },
+    {
+      "_id": 2554,
+      "gameType": "dota2",
+      "name": "DPL-CDA Professional League Season 1",
+      "tier": 3
+    },
+    {
+      "_id": 2418,
+      "gameType": "csgo",
+      "name": "HomeSweetHome",
+      "tier": 3
+    },
+    {
+      "_id": 2354,
+      "gameType": "csgo",
+      "name": "2020 Svenska Elitserien Spring Season",
+      "tier": 3
+    },
+    {
+      "_id": 1494,
+      "gameType": "csgo",
+      "name": "ESL One Road to Rio EU",
+      "tier": 2
+    },
+    {
+      "_id": 2346,
+      "gameType": "csgo",
+      "name": "BLAST Rising",
+      "tier": 2
+    },
+    {
+      "_id": 2670,
+      "gameType": "csgo",
+      "name": "ESEA Premier Season 34 Europe",
+      "tier": 2
+    },
+    {
+      "_id": 786,
+      "gameType": "dota2",
+      "name": "2020 ESL One Birmingham Online EU and CIS",
+      "tier": 2
+    },
+    {
+      "_id": 1230,
+      "gameType": "dota2",
+      "name": "2020 Isolation Cup",
+      "tier": 3
+    },
+    {
+      "_id": 2682,
+      "gameType": "dota2",
+      "name": "Parimatch League S3",
+      "tier": 3
+    },
+    {
+      "_id": 2702,
+      "gameType": "csgo",
+      "name": "2020 ESL Mistrzostwa Polski Spring",
+      "tier": 3
+    },
+    {
+      "_id": 2706,
+      "gameType": "csgo",
+      "name": "2020 Orange Unity League",
+      "tier": 3
+    },
+    {
+      "_id": 2390,
+      "gameType": "csgo",
+      "name": "ESEA Premier Season 34 North America",
+      "tier": 2
+    },
+    {
+      "_id": 2166,
+      "gameType": "dota2",
+      "name": "2020 OGA Dota PIT Online EU and CIS",
+      "tier": 2
+    },
+    {
+      "_id": 2658,
+      "gameType": "csgo",
+      "name": "ESEA Premier Season 34 Australia",
+      "tier": 2
+    },
+    {
+      "_id": 1466,
+      "gameType": "csgo",
+      "name": "ESL One Road to Rio CIS",
+      "tier": 2
+    },
+    {
+      "_id": 2090,
+      "gameType": "dota2",
+      "name": " China Dota2 Development League S3",
+      "tier": 3
+    },
+    {
+      "_id": 2498,
+      "gameType": "dota2",
+      "name": "Movistar Liga Pro Gaming Season 4 ",
+      "tier": 3
+    },
+    {
+      "_id": 2442,
+      "gameType": "csgo",
+      "name": "2020 Weibo Cup Asia Professional Championship",
+      "tier": 2
+    },
+    {
+      "_id": 2094,
+      "gameType": "dota2",
+      "name": "Huya World E-sports Legendary League",
+      "tier": 2
+    },
+    {
+      "_id": 1502,
+      "gameType": "csgo",
+      "name": "CLUTCH League S2",
+      "tier": 3
+    },
+    {
+      "_id": 2438,
+      "gameType": "dota2",
+      "name": "2020 SEA Dota Invitational",
+      "tier": 3
+    },
+    {
+      "_id": 2538,
+      "gameType": "csgo",
+      "name": "2020 RTP Arena Cup",
+      "tier": 3
+    },
+    {
+      "_id": 2174,
+      "gameType": "dota2",
+      "name": "OMG Cup 3",
+      "tier": 3
+    },
+    {
+      "_id": 2634,
+      "gameType": "csgo",
+      "name": "Hellcase Cup 8",
+      "tier": 2
+    },
+    {
+      "_id": 2474,
+      "gameType": "csgo",
+      "name": "WINNERS League Season 4 Europe",
+      "tier": 2
+    },
+    {
+      "_id": 2674,
+      "gameType": "csgo",
+      "name": "2020 DreamHack Masters Spring Europe",
+      "tier": 2
+    }
+  ]
+}
